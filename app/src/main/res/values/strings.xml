@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Bangla Quotes</string>
+
+        <!-- Quote 1 -->
+        <string name="quote1_title">মানুষ মর্তে আসে একদিন, যায় একদিন, তার মাঝে ক’টা সোনার দিন।</string>
+        <string name="quote1_author">রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote1_description">জীবন ক্ষণস্থায়ী, প্রতিটি মুহূর্তকে উপভোগ করুন।</string>
+
+        <!-- Quote 2 -->
+        <string name="quote2_title">যেখানে সত্যি সেখানেই ঈশ্বর।</string>
+        <string name="quote2_author">বিবেকানন্দ</string>
+        <string name="quote2_description">সত্যের পথ অনুসরণ করলেই ঈশ্বরকে পাওয়া যায়।</string>
+
+        <!-- Quote 3 -->
+        <string name="quote3_title">চেষ্টা করলেই সফলতা আসে না, কিন্তু চেষ্টা না করলে সফলতা আসে না।</string>
+        <string name="quote3_author">বিশ্বকবি রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote3_description">সাফল্যের জন্য চেষ্টা করা অপরিহার্য।</string>
+
+        <!-- Quote 4 -->
+        <string name="quote4_title">শুভ কর্মই সত্য ধর্ম।</string>
+        <string name="quote4_author">চাণক্য</string>
+        <string name="quote4_description">ভালো কাজই আসল ধর্ম।</string>
+
+        <!-- Quote 5 -->
+        <string name="quote5_title">পৃথিবীতে সবচেয়ে বড়ো শক্তি হচ্ছে শিক্ষা।</string>
+        <string name="quote5_author">নেলসন ম্যান্ডেলা</string>
+        <string name="quote5_description">শিক্ষা মানুষকে শক্তিশালী করে।</string>
+
+        <!-- Quote 6 -->
+        <string name="quote6_title">যে ভাষায় শিশু মন ভাবে, সেই ভাষায় জাতি বাঁচে।</string>
+        <string name="quote6_author">মুহম্মদ জহিরুল হক</string>
+        <string name="quote6_description">মাতৃভাষা জাতীয় ঐতিহ্য ধরে রাখে।</string>
+
+        <!-- Quote 7 -->
+        <string name="quote7_title">মানুষ মর্তে আসে কাজ করতে, আসে সংগ্রাম করতে।</string>
+        <string name="quote7_author">কাজী নজরুল ইসলাম</string>
+        <string name="quote7_description">জীবনে চ্যালেঞ্জ গ্রহণ করে এগিয়ে চলা উচিত।</string>
+
+        <!-- Quote 8 -->
+        <string name="quote8_title">মানুষের মহান গুণ হচ্ছে দয়া।</string>
+        <string name="quote8_author">লেও টলস্টয়</string>
+        <string name="quote8_description">অন্যের প্রতি দয়া দেখানো মানুষের শ্রেষ্ঠ গুণ।</string>
+
+        <!-- Quote 9 -->
+        <string name="quote9_title">যে জাতি স্বদেশকে ভালোবাসে না, সে জাতি কখনো উন্নতি করতে পারে না।</string>
+        <string name="quote9_author">শহীদুল্লাহ কায়সার</string>
+        <string name="quote9_description">নিজের দেশকে ভালোবাসা জাতীয় উন্নতির চাবিকাঠি।</string>
+
+        <!-- Quote 10 -->
+        <string name="quote10_title">সময়ই সোনা, সময়ই হীরা।</string>
+        <string name="quote10_author">বাংলা প্রবাদ</string>
+        <string name="quote10_description">সময় অত্যন্ত মূল্যবান, সঠিকভাবে কাজে লাগানো উচিত।</string>
+
+        <!-- Quote 11 -->
+        <string name="quote11_title">যেখানে ভালোবাসা, সেখানেই ঈশ্বর।</string>
+        <string name="quote11_author">লাইলা মজিদ</string>
+        <string name="quote11_description">ভালোবাসার মধ্যে ঈশ্বরের অস্তিত্ব।</string>
+
+        <!-- Quote 12 -->
+        <string name="quote12_title">আমার ভাই আমার দেশ।</string>
+        <string name="quote12_author">কবি সিরাজ সাইফ</string>
+        <string name="quote12_description">সহ নাগরিকদের প্রতি ভ্রাতৃত্ববোধ।</string>
+
+        <!-- Quote 13 -->
+        <string name="quote13_title">যারা স্বপ্ন দেখে না, তারা জীবন দেখতে পায় না।</string>
+        <string name="quote13_author">কাজী আব্দুল গফ্ফার</string>
+        <string name="quote13_description">লক্ষ্য নির্ধারণ জীবনে দিকনির্দেশনা দেয়।</string>
+
+        <!-- Quote 14 -->
+        <string name="quote14_title">যে কোনো সমস্যার সমাধান আছে, হতাশা নেই।</string>
+        <string name="quote14_author">নেলসন ম্যান্ডেলা</string>
+        <string name="quote14_description">হতাশ না হয়ে সমস্যার সমাধানের চেষ্টা করা উচিত।</string>
+
+        <!-- Quote 15 -->
+        <string name="quote15_title">একটা হাসিই যথেষ্ট, জগত বদলে দিতে।</string>
+        <string name="quote15_author">রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote15_description">ছোট্ট কিছু ভালো কাজ জগতকে আরও উজ্জ্বল করতে পারে।</string>
+
+        <!-- Quote 16 -->
+        <string name="quote16_title">শুভ কাজের পথ সহজ নয়, তাই বলে পিছুপা হওয়া যাবে না।</string>
+        <string name="quote16_author">চাণক্য</string>
+        <string name="quote16_description">চ্যালেঞ্জ মোকাবেলা করেই সাফল্য অর্জন করা সম্ভব।</string>
+
+        <!-- Quote 17 -->
+        <string name="quote17_title">পৃথিবীতে দুঃখ আছে, তাই আছে সুখ।</string>
+        <string name="quote17_author">রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote17_description">জীবনে ভালো-মন্দ উভয় অভিজ্ঞতাই গ্রহণ করে এগিয়ে যেতে হবে।</string>
+
+        <!-- Quote 18 -->
+        <string name="quote18_title">যে শিখতে থাকে, সে বাঁচতে থাকে।</string>
+        <string name="quote18_author">মহাত্মা গান্ধী</string>
+        <string name="quote18_description">জীবনভর শেখা চালিয়ে যাওয়া উচিত।</string>
+
+        <!-- Quote 19 -->
+        <string name="quote19_title">পরের কথা শুনতে জানো, তাহলেই নিজেকে বুঝতে শিখবে।</string>
+        <string name="quote19_author">রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote19_description">অন্যের মতামত শ্রবণ করা নিজেকে বোঝার গুরুত্বপূর্ণ উপায়।</string>
+
+        <!-- Quote 20 -->
+        <string name="quote20_title">জীবন হচ্ছে গান, ছেলেবেলা হচ্ছে তার সুর।</string>
+        <string name="quote20_author">রবীন্দ্রনাথ ঠাকুর</string>
+        <string name="quote20_description">শৈশবে গড়া মূল্যবোধ জীবনকে সুন্দর করে।</string>
+
+    <!-- Add more quotes as needed -->
+</resources>
